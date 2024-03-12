@@ -1,0 +1,19 @@
+Detected attributes: A man standing on a rock with his arms outstretched
+
+JSON
+
+
+{
+  "apim-request-id": "e8000a8c-452e-4e79-9b3a-416c5c3e9586",
+  "content-length": "180",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a man standing on a rock with his arms outstretched",
+    "confidence": 0.7897831201553345
+  },
+  "metadata": {
+    "width": 5999,
+    "height": 3595
+  }
+}
